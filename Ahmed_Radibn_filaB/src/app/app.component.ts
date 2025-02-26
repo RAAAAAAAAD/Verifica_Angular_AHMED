@@ -12,4 +12,5 @@ import { SecondoComponent } from './secondo/secondo.component';
 })
 export class AppComponent {
   title = 'Ahmed_Radibn_filaB';
+  name = 'app';
 }
