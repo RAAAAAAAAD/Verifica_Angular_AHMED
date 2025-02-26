@@ -1,0 +1,12 @@
+.cont {
+    background-color: #00ffff;
+    height: 200px; 
+    width: 400px;
+    text-align: center;
+}
+.cont2{
+    background-color: #ffff;
+    height: fit-content;
+    width: fit-content;
+    border-color: #000;
+}
